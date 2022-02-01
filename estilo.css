@@ -1,5 +1,5 @@
 body {
-    background-color: white;
+    background-color: gray;
 }
 
 h1 {
@@ -9,6 +9,16 @@ h1 {
 
 h2 {
     font-size: 30px;
+    text-align: center;
+}
+
+#p2 {
+    font-size: 20px;
+    line-height: 1px;
+    text-align: center;
+    border-style: solid;
+    padding: 15px;
+    background-color: whitesmoke;
 }
 
 #p1 {
